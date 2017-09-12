@@ -1,4 +1,4 @@
-#Animation Software Engineering
+# Animation Software Engineering
 
 This is the software developed for the ASE module at Bournemouth University.
 
@@ -9,11 +9,11 @@ The program is a simple implementation of a 2D Mac-Grid for fluid simulation. It
 The project also includes a rudimental implementation of the FLIP algorithm as described in (Bridson,2011).
 
 
-#Limitations:
+### Limitations:
 A set of methods to implement a pressure solver (Bridson,2011) is included in the project, but the pressure solver is not working as expected.
 The simulation assumes the presence of a solid bounding box, which contains the fluid.
 
-#References:
+### References:
 Bridson,R, 2011. Fluid Simulation for Computer Graphics. 2nd ed.
 
 <p align="center">
